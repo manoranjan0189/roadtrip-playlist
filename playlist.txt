@@ -2,3 +2,4 @@ Song - Artist
 kuch kuch - ABCD
 dil chat - SDAA
 kuch kuch hota he
+added normal song1
